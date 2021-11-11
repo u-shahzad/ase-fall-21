@@ -1,2 +1,3 @@
-# ASE
-Advanced Software Engineering 2021/2022 (University of Pisa)
+# ASE 2021/2022 
+
+This repository contains the lab activities performed in Advanced Software Engineering course (University of Pisa)
