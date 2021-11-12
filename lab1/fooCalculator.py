@@ -1,4 +1,4 @@
-import lab1 as c
+import calculator as c
 
 class FooCalculator:
 
@@ -12,5 +12,7 @@ class FooCalculator:
     def divide(self, m, n):
         return c.divide(m,n)
 
-x = FooCalculator()
-print(x.sum(4,9))
+if __name__ == "__main__":
+    x = FooCalculator()
+    print(x.sum(4,9))
+    print(x.divide(12,2))
